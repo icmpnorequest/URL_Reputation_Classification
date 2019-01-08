@@ -31,6 +31,9 @@ Build the 9 Feature Sets as paper do.
 
 ## 5. Classification Comparison
 Using sklearn packages https://scikit-learn.org/stable/. 
+
+Classification code is in main.py
+
 Classifier:
 1) Gaussian Naive Bayes
 2) Multinomial Naive Bayes
